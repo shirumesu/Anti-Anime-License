@@ -8,6 +8,7 @@ on:
       - anime.csv
       - .github/scripts/sync_generated_files.py
       - .github/templates/LICENSE.template
+      - .github/templates/LICENSE_CN.template
   workflow_dispatch:
 
 permissions:
